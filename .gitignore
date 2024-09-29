@@ -1,0 +1,64 @@
+# Java related
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Package Files
+*.war
+*.ear
+
+# IDEs & Editors
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+*.swp
+
+# STS
+.springBeans
+
+# VS Code
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# End of gitignore
+src/main/resources/application.properties
